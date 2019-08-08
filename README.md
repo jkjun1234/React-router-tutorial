@@ -5,9 +5,10 @@
 2. 해당 프로젝트폴더로 이동
     
     $ yarn add react-router-dom
+    
     $ yarn add cross-env --dev
     명령어를 입력하여 라우터 설치
-    
+
 
 참고 사이트 
 - https://velopert.com/3417
